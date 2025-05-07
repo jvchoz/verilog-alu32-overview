@@ -1,6 +1,6 @@
 # 32-bit ALU in Verilog
 
-This project implements a 32-bit Arithmetic Logic Unit (ALU) in Verilog as part of the EECS 31L: Introduction to Digital Logic Laboratory course at the University of California, Irvine (Spring 2025).
+This project implements a 32-bit Arithmetic Logic Unit (ALU) in Verilog.
 
 The ALU supports both arithmetic and bitwise logical operations, controlled via a 4-bit `ALU_ctrl` input. It also detects special conditions such as overflow, carry-out, and whether the result is zero.
 
@@ -37,7 +37,6 @@ A testbench (`ALU_tb.v`) is included to verify the correctness of all operations
 
 - `ALU.v` — 32-bit ALU module
 - `ALU_tb.v` — Testbench for simulating the ALU
-- `EECS31L_LabReport2_ArithmeticLogicUnit.pdf` — Official lab report submitted for credit 
 
 ## Tools Used
 
@@ -47,8 +46,7 @@ A testbench (`ALU_tb.v`) is included to verify the correctness of all operations
 ## Author
 
 James Ong
-Electrical Engineering Undergraduate  
-University of California, Irvine
+ This is a public-facing overview. The full implementation is available privately and can be shared upon request.
 
 ## Academic Honesty Notice
 
