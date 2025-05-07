@@ -46,13 +46,9 @@ A testbench (`ALU_tb.v`) is included to verify the correctness of all operations
 ## Author
 
 James Ong
- This is a public-facing overview. The full implementation is available privately and can be shared upon request.
 
-## Academic Honesty Notice
+This is a public-facing overview. The full implementation is available privately and can be shared upon request.
 
-This project was created for coursework in EECS 31L at UC Irvine.  
-It is shared publicly for **educational and portfolio purposes only**.  
-**Do not reuse or submit this code for academic credit.**
 
 ## License
 
